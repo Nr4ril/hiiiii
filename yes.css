@@ -77,73 +77,20 @@ body {
   justify-content: center;
   flex-direction: column;
 }
-.container {
-  margin: 2cm;
-}
-.title {
-  border: none;
-  margin-bottom: 17px;
+
+h1 {
+  margin-top: 200px;
+  padding: 30px;
   color: white;
   text-decoration: none;
   font-size: 3em;
   font-family: "1FTV Maglony";
   border-radius: 0.5em;
-}
-.btn {
-  display: flex;
-  flex-direction: row;
-  text-align: justify;
-  justify-content: center;
-  gap: 20px;
-}
-a {
-  text-decoration: none;
-  border: none;
-  color: rgb(255, 255, 255);
-  background-color: rgb(91, 139, 244);
-  box-shadow: none;
-  border-radius: 0.5em;
-  font-size: 25px;
-  padding: 10px;
-  font-family: "Montserrat";
-  padding: 10px;
-  box-shadow: rgb(60, 109, 214) 0 0 7px;
-}
-.connect {
-  font-family: "1FTV Maglony";
-  display: inline-block;
-  color: white;
-  font-size: 20px;
-  margin-top: 10px;
-}
-a:hover {
-  cursor: pointer;
-  text-decoration: underline;
   background-color: rgb(162, 226, 136);
-  box-shadow: rgb(79, 165, 45) 0 0 7px;
-  transition: ease 0.2s;
-}
-ion-icon {
-  color: rgb(255, 79, 85);
-  font-size: 50px;
+  box-shadow: rgb(79, 165, 45) 0 0 10px;
 }
 img {
-  position: fixed;
-  height: 30vh;
-}
-.anh1 {
-  bottom: 0;
-  right: 0;
-}
-.anh2 {
-  bottom: 0;
-  transform: scaleX(-1);
-  left: 0;
-}
-.gau {
-  margin-top: 100px;
-  height: 30vh;
-  border-radius: 10px;
-  border: solid white 1px;
-  box-shadow: 0 0 10px rgb(255, 184, 184);
+  height: 300px;
+  margin-top: 30px;
+  border-radius: 15px;
 }

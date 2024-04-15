@@ -160,10 +160,6 @@ img {
   a {
     font-size: 1em;
   }
-  .meo {
-    width: 50%;
-    max-width: 10px;
-  }
   .gau {
     height: 20%;
   }
@@ -204,16 +200,5 @@ img {
   .gau {
     height: 30%;
   }
-  #anh1 {
-    height: 20%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-  }
-  #anh2 {
-    height: 20%;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-  }
+  
 }

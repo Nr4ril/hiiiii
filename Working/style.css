@@ -200,10 +200,7 @@ img {
     box-shadow: rgb(79, 165, 45) 0 0 0.3em;
     transition: ease 0.2s;
   }
-  .meo {
-    width: 50%;
-    max-width: 10px;
-  }
+
   .gau {
     height: 30%;
   }

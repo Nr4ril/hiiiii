@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '1FTV Maglony';
+    src: url('1FTVMaglony-Regular.woff2') format('woff2'),
+        url('1FTVMaglony-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

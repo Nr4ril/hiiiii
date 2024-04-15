@@ -131,15 +131,7 @@ img {
   position: fixed;
   height: 30%;
 }
-#anh1 {
-  bottom: 0;
-  right: 0;
-}
-#anh2 {
-  bottom: 0;
-  transform: scaleX(-1);
-  left: 0;
-}
+
 .gau {
   margin-top: 15%;
   height: 30%;
@@ -163,18 +155,7 @@ img {
   .gau {
     height: 20%;
   }
-  #anh1 {
-    height: 15%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-  }
-  #anh2 {
-    height: 15%;
-    position: fixed;
-    bottom: 0;
-    left: 0s;
-  }
+  
 }
 @media screen and (min-width: 828px) {
   .container {
